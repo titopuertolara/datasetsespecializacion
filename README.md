@@ -1,3 +1,3 @@
 # Material de apoyo Machine Learning
 
-En este repositorio encontrarás los datasets, notebook y presentaciones de apoyo para este curso.
+En este repositorio encontrarás los datasets, notebooks y presentaciones de apoyo para este curso.
